@@ -1,0 +1,4 @@
+streamlit==1.46.0
+requests==2.32.4
+playwright==1.53.0
+pydantic==2.33.2
